@@ -21,7 +21,7 @@ Welcome to the Cloud App Landing Page! This landing page is designed to showcase
   ## Screenshots
 
 ![Screenshot](https://i.imgur.com/n54IX97.png)
-![Screenshot](https://i.imgur.com/BRFNF7c.png)
+
 
 # Usage
 
